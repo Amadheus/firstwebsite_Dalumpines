@@ -132,7 +132,7 @@ p {
   display: block;
   width: 35px;
   height: 5px;
-  background-color: #252525;
+  background-color: #863434;
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -161,7 +161,7 @@ p {
   display: block;
   width: 35px;
   height: 5px;
-  background-color: #252525;
+  background-color: #723030;
   margin: 7px 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
@@ -206,7 +206,7 @@ p {
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: rgba(130, 196, 25, 0.95);
+  background-color: rgba(105, 63, 14, 0.95);
   overflow-x: hidden;
   -webkit-transition: 0.5s;
   transition: 0.5s;
@@ -224,20 +224,20 @@ p {
   text-decoration: none;
   font-size: 18px;
   text-transform: uppercase;
-  color: #ffffff;
+  color: #581515;
   margin: 10px 0;
   display: block;
   -webkit-transition: 0.3s;
   transition: 0.3s;
-  border: 1.5px solid #ffffff;
+  border: 1.5px solid #703131;
   border-radius: 5px;
   width: 190px;
 }
 
 .overlay a:hover, .overlay a.active {
   border-color: transparent;
-  background-color: #ffffff;
-  color: #000000;
+  background-color: #993a3a;
+  color: #530d0d;
 }
 
 .menu_btn-style {
